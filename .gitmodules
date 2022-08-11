@@ -1,0 +1,4 @@
+[submodule "odoo-ps/psus-intern/studio_blockly"]
+	path = odoo-ps/psus-intern/studio_blockly
+	url = git@github.com:odoo-ps/psus-intern.git
+	branch = 15.0-studio_blockly-2904422-vidi
